@@ -18,5 +18,5 @@ or
 python main.py --model vit #vision transformer
 ```
 
-**😎FYI, this code has only been tested on a Tesla A100.**
+**😎FYI, this code has only been tested on a Tesla A100 GPU.**
 
